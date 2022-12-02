@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon",
     "build": "rimraf build && tsc",
-    "start": "node build/src/index.js"
+    "start": "vercel dev",
+    "deploy": "vercel deploy --prod"
   },
   "keywords": [],
   "author": "",
@@ -24,7 +25,8 @@
     "ts-node": "^10.9.1",
     "tsconfig-paths": "^4.1.1",
     "tsup": "^6.5.0",
-    "typescript": "^4.9.3"
+    "typescript": "^4.9.3",
+    "vercel": "^28.7.0"
   },
   "dependencies": {
     "bcrypt": "^5.1.0",
