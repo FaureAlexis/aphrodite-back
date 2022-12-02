@@ -1,0 +1,172 @@
+[
+    {
+        "id": 1,
+        "name": "Question 1 :",
+        "question": "Pourquoi faut-il pincer le réservoir du préservatif au moment où on le met ?",
+        "answers": [
+            {
+                "id": 1,
+                "text": "Pour en chasser l'air"
+            },
+            {
+                "id": 2,
+                "text": "Pour donner plus de plaisir"
+            }
+        ],
+        "correct": 1,
+        "explanation": "Pour en chasser l'air afin d'éviter que le préservatif ne se déchire sous la pression lors de l'éjaculation."
+    },
+    {
+        "id": 2,
+        "name": "Question 2 :",
+        "question": "Est-ce que je peux réutiliser un préservatif ?",
+        "answers": [
+            {
+                "id": 1,
+                "text": "Non, un préservatif pour un rapport sexuel."
+            },
+            {
+                "id": 2,
+                "text": "Oui s'il n'y a pas eu d'éjaculation"
+            }
+        ],
+        "correct": 1,
+        "explanation": "Non, un préservatif par rapport sexuel. Les préservatifs (externe ou interne) sont à usage unique : il faut en utiliser un nouveau à chaque rapport."
+    },
+    {
+        "id": 3,
+        "name": "Question 3 :",
+        "question": "Le préservatif protège contre toutes les infections sexuellement transmissibles ?",
+        "answers": [
+            {
+                "id": 1,
+                "text": "Oui"
+            },
+            {
+                "id": 2,
+                "text": "Non"
+            }
+        ],
+        "correct": 2,
+        "explanation": "Non, le préservatif n'est malheureusement pas toujours efficace à 100% pour se protéger de toutes les IST. En effet, certaines zones infectées (condylome, chancre, vésicule) peuvent ne pas être couvertes par le préservatif. Un contact entre ces zones infectées et les muqueuses du·de la partenaire peut alors suffire pour qu'il y ait un risque de transmission d'une IST (HPV, herpès et syphilis)."
+    },
+    {
+        "id": 4,
+        "name": "Question 4 :",
+        "question": "Où puis-je recevoir gratuitement des préservatifs ?",
+        "answers": [
+            {
+                "id": 1,
+                "text": "En pharmacie"
+            },
+            {
+                "id": 2,
+                "text": "Dans un centre de planning familial"
+            }
+        ],
+        "correct": 2,
+        "explanation": "Dans un centre de planning familial (mais aussi à la Plateforme Prévention Sida)"
+    },
+    {
+        "id": 5,
+        "name": "Question 5 :",
+        "question": "Je peux avoir un rapport sexuel sans préservatif avec une personne vivant avec le VIH sans risque d'être infecté·e ?",
+        "answers": [
+            {
+                "id": 1,
+                "text": "Oui mais uniquement si sa charge virale est indétectable."
+            },
+            {
+                "id": 2,
+                "text": "Oui mais seulement si elle n'a pas eu de relations sexuelles depuis 6 mois."
+            }
+        ],
+        "correct": 1,
+        "explanation": "Oui, uniquement si sa charge virale est indétectable : une personne séropositive qui a une charge virale indétectable grâce à son traitement ne transmet plus le VIH."
+    },
+    {
+        "id": 6,
+        "name": "Question 6 :",
+        "question": "Je peux utiliser n'importe quelle sorte de lubrifiant avec un préservatif ?",
+        "answers": [
+            {
+                "id": 1,
+                "text": "Oui, tous les lubrifiants peuvent être utilisés"
+            },
+            {
+                "id": 2,
+                "text": "Non, seuls les lubrifiants à base d'eau ou de silicone."
+            }
+        ],
+        "correct": 2,
+        "explanation": "Non, seuls les lubrifiants à base d'eau ou de silicone peuvent être utilisés car les corps gras (vaseline, huile de massage) risqueraient de fragiliser le préservatif et celui-ci pourrait se déchirer lors du rapport sexuel."
+    },
+    {
+        "id": 7,
+        "name": "Question 7 :",
+        "question": "Je peux me faire vacciner pour me protéger contre :",
+        "answers": [
+            {
+                "id": 1,
+                "text": "L'hépatite B et le HPV (papilloma virus)"
+            },
+            {
+                "id": 2,
+                "text": "L'hépatite C et le VIH"
+            }
+        ],
+        "correct": 1,
+        "explanation": "Il existe un vaccin contre l'hépatite B et le HPV mais pas encore contre l'hépatite C et le VIH. Le vaccin contre le HPV permet d'éviter les cancers (col de l’utérus, pénis, vagin, vulve, anus et gorge) et les condylomes (verrues génitales ou anales) causés par cette IST."
+    },
+    {
+        "id": 8,
+        "name": "Question 8 :",
+        "question": "Quel moyen de protection puis-je utiliser pour faire un cunnilingus de manière protégée ?",
+        "answers": [
+            {
+                "id": 1,
+                "text": "Un préservatif féminin"
+            },
+            {
+                "id": 2,
+                "text": "Un carré de latex"
+            }
+        ],
+        "correct": 2,
+        "explanation": "Un carré de latex car il va recouvrir toutes les parois vaginales et empêcher tout contact entre la bouche et la vulve. Le carré de latex peut aussi servir à faire un anulingus de manière protégée."
+    },
+    {
+        "id": 9,
+        "name": "Question 9 :",
+        "question": "Combien de temps avant un rapport sexuel le préservatif interne peut-il être placé ?",
+        "answers": [
+            {
+                "id": 1,
+                "text": "Directement avant le rapport sexuel"
+            },
+            {
+                "id": 2,
+                "text": "Plusieurs heures avant"
+            }
+        ],
+        "correct": 2,
+        "explanation": "Le préservatif interne (aussi appelé « préservatif féminin ») peut être placé jusqu'à 8h avant le rapport sexuel."
+    },
+    {
+        "id": 10,
+        "name": "Question 10 :",
+        "question": "Une personne séronégative peut-elle prendre des médicaments avant et après un rapport sexuel pour ne pas être infectée par le VIH ?",
+        "answers": [
+            {
+                "id": 1,
+                "text": "Oui c'est la prophylaxie pré-exposition (la PrEP)"
+            },
+            {
+                "id": 2,
+                "text": "Non, rien ne peut nous protéger d'une infection au VIH"
+            }
+        ],
+        "correct": 1,
+        "explanation": "Oui, c'est la prophylaxie pré-exposition (« PrEP »). La PrEP est un médicament proposé aux personnes séronégatives qui, lorsqu'il est pris avant et après un rapport sexuel sans préservatif permet d'éviter la contamination au VIH. Ce traitement est composé d'anti rétroviraux et va empêcher le virus de s'installer et de se multiplier dans le corps. La personne reste alors séronégative. Ce traitement ne protège que d'une contamination au VIH, pas des autres IST."
+    }
+]
